@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=24292F&center=true&vCenter=true&width=440&lines=Senior+Full+Stack+Engineer;Startup+Founder+%26+Solo+Developer;Building+open-source+tools+%26+indie+apps" alt="typing" />
+**Senior Full-Stack Engineer · Startup Founder · Solo Developer**
 
 </div>
 
@@ -13,11 +13,13 @@ I work as a senior full-stack engineer shipping **React** and **Java Spring Boot
 <table>
   <tr>
     <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/ahh1539/ahh1539/main/assets/junco-icon.png" width="40" height="40" />
       <h3><a href="https://www.tryjunco.com">Junco</a></h3>
       <p>Newsletters turned into a daily podcast. Aggressively optimized for the AI-crawler era with prerendered static HTML and edge middleware.</p>
       <p><sub>Swift · iOS · React · Vite · Neon</sub></p>
     </td>
     <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/ahh1539/ahh1539/main/assets/one-new-thing-icon.png" width="40" height="40" />
       <h3><a href="https://www.one-new-thing.com">One New Thing</a></h3>
       <p>One daily challenge to break autopilot mode. No wellness-speak, no productivity pressure. Local-first iOS with a clean backend architecture.</p>
       <p><sub>SwiftUI · SwiftData · StoreKit 2 · Hono · Kysely</sub></p>
@@ -25,11 +27,13 @@ I work as a senior full-stack engineer shipping **React** and **Java Spring Boot
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/ahh1539/ahh1539/main/assets/neonlens-icon.png" width="40" height="40" />
       <h3><a href="https://ahh1539.github.io">NeonLens</a></h3>
       <p>iOS dashboard for Neon Postgres. Zero backend. Zero telemetry. Zero third-party dependencies. Face ID + Keychain-secured API keys.</p>
       <p><sub>Swift · SwiftUI · Charts · LocalAuthentication</sub></p>
     </td>
     <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/ahh1539/ahh1539/main/assets/clankerpass-icon.png" width="40" height="40" />
       <h3><a href="https://www.clankerpass.com">ClankerPass</a></h3>
       <p>Retro arcade Turing test. Three messages to convince an AI bouncer you're also an AI. CRT aesthetic, Mistral-powered, shareable certificates.</p>
       <p><sub>Next.js · TypeScript · Tailwind · Mistral · Framer Motion</sub></p>
