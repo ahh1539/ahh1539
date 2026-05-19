@@ -45,6 +45,4 @@ Right now I'm a senior full-stack engineer working with **React** and **Java Spr
 
 ---
 
-[tryjunco.com](https://www.tryjunco.com) · [one-new-thing.com](https://www.one-new-thing.com) · [neonlens](https://ahh1539.github.io) · [clankerpass.com](https://www.clankerpass.com)
-
 [LinkedIn](https://www.linkedin.com/in/alexander-hurley1258/)
