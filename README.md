@@ -1,5 +1,3 @@
-# Hello.
-
 **Senior Full-Stack Engineer · Startup Founder · Solo Developer**
 
 📍 Austin, Texas
