@@ -39,6 +39,4 @@ Right now I'm a senior full-stack engineer working with **React** and **Java Spr
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
 </p>
 
----
-
 [LinkedIn](https://www.linkedin.com/in/alexander-hurley1258/)
