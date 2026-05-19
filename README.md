@@ -1,29 +1,40 @@
-<div align="center">
+# Hello.
 
 **Senior Full-Stack Engineer · Startup Founder · Solo Developer**
 
 📍 Austin, Texas
 
-</div>
+I build systems by day and products by night.
 
----
+Right now I'm a senior full-stack engineer working with **React** and **Java Spring Boot**. After hours, I'm a solo founder shipping indie apps and open-source tools — mostly because I get obsessed with an idea and can't stop until it exists.
 
-By day: Senior full-stack engineer shipping **React** and **Java Spring Boot** at scale.
+### Projects
 
-By night: Solo founder building open-source tools and indie apps that scratch my own itch.
+<p>
+  <img src="https://raw.githubusercontent.com/ahh1539/ahh1539/main/assets/junco-icon.png" width="28" height="28" align="top" />
+  <a href="https://www.tryjunco.com"><strong>Junco</strong></a> — Newsletters, but as a daily podcast. iOS app with a prerendered, AI-crawler-optimized landing page.<br/>
+  <sub>Swift · iOS · React · Vite</sub>
+</p>
 
-I love products that feel inevitable — the ones where you try them once and wonder how you lived without them. Most of my side projects start with a "what if?" and end up as fully-fledged apps on the App Store.
+<p>
+  <img src="https://raw.githubusercontent.com/ahh1539/ahh1539/main/assets/one-new-thing-icon.png" width="28" height="28" align="top" />
+  <a href="https://www.one-new-thing.com"><strong>One New Thing</strong></a> — One challenge a day to break routine. No therapy-speak, no productivity guilt.<br/>
+  <sub>SwiftUI · SwiftData · StoreKit 2 · Node · Hono</sub>
+</p>
 
-## Currently Shipping
+<p>
+  <img src="https://raw.githubusercontent.com/ahh1539/ahh1539/main/assets/neonlens-icon.png" width="28" height="28" align="top" />
+  <a href="https://ahh1539.github.io"><strong>NeonLens</strong></a> — iOS dashboard for Neon Postgres. Zero backend. Zero telemetry. Zero dependencies.<br/>
+  <sub>Swift · SwiftUI · Charts · Keychain</sub>
+</p>
 
-|  | Project | What it is | Stack |
-|---|---|---|---|
-| <img src="https://raw.githubusercontent.com/ahh1539/ahh1539/main/assets/junco-icon.png" width="32" height="32" /> | **[Junco](https://www.tryjunco.com)** | Newsletters turned into a daily podcast | Swift, iOS |
-| <img src="https://raw.githubusercontent.com/ahh1539/ahh1539/main/assets/one-new-thing-icon.png" width="32" height="32" /> | **[One New Thing](https://www.one-new-thing.com)** | One daily challenge to break autopilot mode | Swift, SwiftUI, SwiftData, Node, Hono |
-| <img src="https://raw.githubusercontent.com/ahh1539/ahh1539/main/assets/neonlens-icon.png" width="32" height="32" /> | **[NeonLens](https://ahh1539.github.io)** | Zero-backend iOS dashboard for Neon Postgres | Swift, SwiftUI, Charts |
-| <img src="https://raw.githubusercontent.com/ahh1539/ahh1539/main/assets/clankerpass-icon.png" width="32" height="32" /> | **[ClankerPass](https://www.clankerpass.com)** | Retro arcade game: convince an AI you're also an AI | Next.js, TypeScript, Mistral |
+<p>
+  <img src="https://raw.githubusercontent.com/ahh1539/ahh1539/main/assets/clankerpass-icon.png" width="28" height="28" align="top" />
+  <a href="https://www.clankerpass.com"><strong>ClankerPass</strong></a> — Retro arcade Turing test. Three messages to fool an AI bouncer. CRT aesthetic, shareable certificates.<br/>
+  <sub>Next.js · TypeScript · Tailwind · Mistral · Framer Motion</sub>
+</p>
 
-## Languages & Tools
+### Stack
 
 <p>
   <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=flat-square" />
@@ -34,13 +45,6 @@ I love products that feel inevitable — the ones where you try them once and wo
 
 ---
 
-<div align="center">
-  <a href="https://www.tryjunco.com">tryjunco.com</a> ·
-  <a href="https://www.one-new-thing.com">one-new-thing.com</a> ·
-  <a href="https://ahh1539.github.io">neonlens</a> ·
-  <a href="https://www.clankerpass.com">clankerpass.com</a>
-</div>
+[tryjunco.com](https://www.tryjunco.com) · [one-new-thing.com](https://www.one-new-thing.com) · [neonlens](https://ahh1539.github.io) · [clankerpass.com](https://www.clankerpass.com)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/alexander-hurley1258/">LinkedIn</a>
-</div>
+[LinkedIn](https://www.linkedin.com/in/alexander-hurley1258/)
