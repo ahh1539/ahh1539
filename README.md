@@ -32,8 +32,6 @@ Right now I'm a senior full-stack engineer working with **React** and **Java Spr
   <sub>Next.js · TypeScript · Tailwind · Mistral · Framer Motion</sub>
 </p>
 
-### Stack
-
 <p>
   <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" />
