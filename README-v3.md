@@ -2,6 +2,8 @@
 
 **Senior Full-Stack Engineer · Startup Founder · Solo Developer**
 
+📍 Austin, Texas
+
 </div>
 
 <br/>
@@ -57,4 +59,8 @@ I work as a senior full-stack engineer shipping **React** and **Java Spring Boot
   <a href="https://www.one-new-thing.com">one-new-thing.com</a> ·
   <a href="https://ahh1539.github.io">neonlens</a> ·
   <a href="https://www.clankerpass.com">clankerpass.com</a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alexander-hurley1258/">LinkedIn</a>
 </div>
