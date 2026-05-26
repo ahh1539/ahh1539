@@ -10,8 +10,8 @@ Right now I'm a senior full-stack engineer working with **React** and **Java Spr
 
 <p>
   <img src="https://raw.githubusercontent.com/ahh1539/ahh1539/main/assets/junco-icon.png" width="28" height="28" align="top" />
-  <a href="https://www.tryjunco.com"><strong>Junco</strong></a> - Newsletters, but as a daily podcast. iOS app with a prerendered, AI-crawler-optimized landing page.<br/>
-  <sub>Swift · iOS · React · Vite</sub>
+  <a href="https://www.tryjunco.com"><strong>Junco</strong></a> — iOS app that turns your newsletters into a daily AI podcast.<br/>
+  <sub>Swift · SwiftUI · iOS 17+</sub>
 </p>
 
 <p>
